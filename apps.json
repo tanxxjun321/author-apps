@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "微光字典",
+    "description": "简洁优雅的中英词典，支持离线查词、发音、例句",
+    "icon_url": "https://raw.githubusercontent.com/tanjun/author-apps/main/icons/zidian.png",
+    "appstore_url": "https://apps.apple.com/app/id6443900310",
+    "bundle_id": "com.tanjun.zidian",
+    "category": "参考",
+    "is_free": true
+  }
+]
