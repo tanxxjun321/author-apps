@@ -1,12 +1,25 @@
 # 作者其他应用
 
-微光字典 App 中"作者其他应用"页面的数据源。
+微光字典等应用的“作者其他应用”页面数据源仓库，同时托管 App Store 所需的公开隐私页面。
 
 ## API 地址
 
+```text
+https://raw.githubusercontent.com/tanxxjun321/author-apps/main/apps.json
 ```
-https://raw.githubusercontent.com/tanjun/author-apps/main/apps.json
-```
+
+## GitHub Pages
+
+配置 GitHub Pages 后，可使用以下页面：
+
+- 隐私政策：`https://tanxxjun321.github.io/author-apps/privacy`
+- 用户隐私选择：`https://tanxxjun321.github.io/author-apps/privacy-choices`
+
+建议在仓库 `Settings -> Pages` 中设置：
+
+- Source: `Deploy from a branch`
+- Branch: `main`
+- Folder: `/docs`
 
 ## 数据格式
 
@@ -44,8 +57,8 @@ https://raw.githubusercontent.com/tanjun/author-apps/main/apps.json
 
 图标文件放在 `icons/` 目录下，通过 GitHub Raw 访问：
 
-```
-https://raw.githubusercontent.com/tanjun/author-apps/main/icons/{app-name}.png
+```text
+https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/{app-name}.png
 ```
 
 建议图标尺寸：120x120px，PNG 格式。
