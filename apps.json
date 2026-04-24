@@ -2,80 +2,10 @@
   {
     "id": 1,
     "name": "微光字典",
-    "description": "简洁优雅的中英词典，支持离线查词、发音、例句",
+    "description": "简洁优雅的字典，支持离线查词、发音、例句",
     "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/zidian.png",
-    "appstore_url": "https://apps.apple.com/app/id6443900310",
-    "bundle_id": "com.tanjun.zidian",
-    "category": "参考",
-    "is_free": true
-  },
-  {
-    "id": 2,
-    "name": "微光阅读",
-    "description": "沉浸式电子书阅读器，支持 EPUB、PDF 等多种格式，夜间模式护眼",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/reader.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567891",
-    "bundle_id": "com.tanjun.reader",
-    "category": "工具",
-    "is_free": false
-  },
-  {
-    "id": 3,
-    "name": "每日诗词",
-    "description": "每天一首经典诗词，配有赏析和朗读，感受中文之美",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/poem.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567892",
-    "bundle_id": "com.tanjun.poem",
-    "category": "教育",
-    "is_free": true
-  },
-  {
-    "id": 4,
-    "name": "番茄专注",
-    "description": "基于番茄工作法的时间管理工具，帮助你保持专注、提高效率",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/focus.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567893",
-    "bundle_id": "com.tanjun.focus",
-    "category": "工具",
-    "is_free": true
-  },
-  {
-    "id": 5,
-    "name": "成语接龙",
-    "description": "经典益智游戏，挑战你的成语储备，支持双人对战模式",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/idiom.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567894",
-    "bundle_id": "com.tanjun.idiom",
-    "category": "娱乐",
-    "is_free": true
-  },
-  {
-    "id": 6,
-    "name": "生词本 Pro",
-    "description": "智能生词记忆工具，基于艾宾浩斯遗忘曲线自动安排复习计划",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/vocab.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567895",
-    "bundle_id": "com.tanjun.vocab",
-    "category": "教育",
-    "is_free": false
-  },
-  {
-    "id": 7,
-    "name": "白噪音",
-    "description": "精选自然白噪音，帮助睡眠、冥想和专注工作",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/whitenoise.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567896",
-    "bundle_id": "com.tanjun.whitenoise",
-    "category": "工具",
-    "is_free": false
-  },
-  {
-    "id": 8,
-    "name": "汉字笔顺",
-    "description": "动画演示汉字标准笔顺，适合儿童和外国人学习汉字书写",
-    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/stroke.png",
-    "appstore_url": "https://apps.apple.com/app/id1234567897",
-    "bundle_id": "com.tanjun.stroke",
+    "appstore_url": "https://apps.apple.com/app/id524927685",
+    "bundle_id": "com.ltz.zidian",
     "category": "教育",
     "is_free": true
   }
