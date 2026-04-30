@@ -12,8 +12,15 @@ https://raw.githubusercontent.com/tanxxjun321/author-apps/main/apps.json
 
 配置 GitHub Pages 后，可使用以下页面：
 
+### 微光字典
+
 - 隐私政策：`https://tanxxjun321.github.io/author-apps/privacy`
 - 用户隐私选择：`https://tanxxjun321.github.io/author-apps/privacy-choices`
+
+### auralign
+
+- 隐私政策：`https://tanxxjun321.github.io/author-apps/aura/privacy`
+- 用户隐私选择：`https://tanxxjun321.github.io/author-apps/aura/privacy-choices`
 
 建议在仓库 `Settings -> Pages` 中设置：
 
