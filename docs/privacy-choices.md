@@ -1,3 +1,8 @@
+---
+title: 用户隐私选择
+permalink: /privacy-choices/
+---
+
 # 用户隐私选择
 
 最近更新日期：2026 年 4 月 24 日

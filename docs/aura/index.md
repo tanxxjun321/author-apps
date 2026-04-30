@@ -1,3 +1,8 @@
+---
+title: auralign
+permalink: /aura/
+---
+
 # auralign
 
 Public support pages for auralign, a desktop window management app.

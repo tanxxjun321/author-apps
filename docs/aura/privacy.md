@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /aura/privacy/
+---
+
 # Privacy Policy
 
 Last updated: April 24, 2026

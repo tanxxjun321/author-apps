@@ -1,3 +1,8 @@
+---
+title: Privacy Choices
+permalink: /aura/privacy-choices/
+---
+
 # Privacy Choices
 
 Last updated: April 24, 2026

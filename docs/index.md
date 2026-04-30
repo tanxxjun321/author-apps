@@ -1,3 +1,8 @@
+---
+title: Author Apps
+permalink: /
+---
+
 # Author Apps
 
 This site hosts public pages used by App Store listings and related app metadata.
