@@ -8,5 +8,15 @@
     "bundle_id": "com.ltz.zidian",
     "category": "教育",
     "is_free": true
+  },
+  {
+    "id": 2,
+    "name": "成语词典",
+    "description": "简洁实用的成语词典，支持成语查询、释义和学习收藏",
+    "icon_url": "https://raw.githubusercontent.com/tanxxjun321/author-apps/main/icons/chengyu.png",
+    "appstore_url": "https://apps.apple.com/app/id568871517",
+    "bundle_id": "com.ltz.chengyu",
+    "category": "教育",
+    "is_free": true
   }
 ]
