@@ -17,6 +17,10 @@ https://raw.githubusercontent.com/tanxxjun321/author-apps/main/apps.json
 - 隐私政策：`https://tanxxjun321.github.io/author-apps/privacy`
 - 用户隐私选择：`https://tanxxjun321.github.io/author-apps/privacy-choices`
 
+### 成语词典
+
+- 隐私政策：`https://tanxxjun321.github.io/author-apps/chengyu/privacy`
+
 ### auralign
 
 - 隐私政策：`https://tanxxjun321.github.io/author-apps/aura/privacy`
