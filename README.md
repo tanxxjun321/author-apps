@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/tanxxjun321/author-apps/main/apps.json
 ### auralign
 
 - 隐私政策：`https://tanxxjun321.github.io/author-apps/aura/privacy`
+- 服务条款：`https://tanxxjun321.github.io/author-apps/aura/terms`
 - 用户隐私选择：`https://tanxxjun321.github.io/author-apps/aura/privacy-choices`
 
 建议在仓库 `Settings -> Pages` 中设置：
